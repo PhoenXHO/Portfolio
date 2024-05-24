@@ -1,0 +1,47 @@
+/* Global */
+@font-face {
+	font-family: Aptos;
+	src: url('Aptos.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Bold */
+@font-face {
+	font-family: Aptos;
+	src: url('Aptos-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+/* Light */
+@font-face {
+	font-family: Aptos;
+	src: url('Aptos-Light.ttf') format('truetype');
+	font-weight: lighter;
+	font-style: normal;
+}
+
+/* Italic */
+@font-face {
+	font-family: Aptos;
+	src: url('Aptos-Italic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
+
+/* Bold Italic */
+@font-face {
+	font-family: Aptos;
+	src: url('Aptos-Bold-Italic.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+/* Light Italic */
+@font-face {
+	font-family: Aptos;
+	src: url('Aptos-Light-Italic.ttf') format('truetype');
+	font-weight: lighter;
+	font-style: italic;
+}

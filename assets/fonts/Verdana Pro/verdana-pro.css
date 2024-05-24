@@ -1,0 +1,15 @@
+/* Global */
+@font-face {
+	font-family: Verdana Pro;
+	src: url('Verdana\ Pro.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Bold */
+@font-face {
+	font-family: Verdana Pro;
+	src: url('Verdana\ Pro-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
